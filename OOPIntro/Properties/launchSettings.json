@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "OOPIntro": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "USER": "ssspetrovic",
+        "PWD": "pwd123"
+      }
+    }
+  }
+}
